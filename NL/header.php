@@ -12,7 +12,7 @@
 <div class="pt5 cartt"><?php include "vsadmin/inc/incminicart.php" ?></div></div>
 <div class="hdsec4 agncen hidden-xs"><!--Begin Comm100 Live Chat Code-->
 <div id="comm100-button-2625"></div>
-
+i have delete code
 <!--End Comm100 Live Chat Code--></div>
 <div class="hdsec2 agncen hidden-sm hidden-xs"><img src="images/secure.png" alt="Secure site" class="img-responsive" /></div>
 <div class="callt"><span class="hidden-xs">Call Us At:<br /></span><b>(561) 206-4241</b></div>
